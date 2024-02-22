@@ -1,0 +1,5 @@
+com/home/demo/config/AnimalAutoConfig.class
+com/home/demo/config/AnimalProperties.class
+com/home/demo/service/AnimalService.class
+com/home/demo/service/impl/DogService.class
+com/home/demo/service/impl/CatService.class
